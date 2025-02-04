@@ -7,11 +7,12 @@ The task is to develop an AI assistant that helps student with daily tasks such 
 ## Data Sources and Integration
 
 The agent relies on specific documents to extract relevant information to answer queries accurately. These documents are processed and split into smaller chunks, indexed, and embedded to allow efficient retrieval by the agent.
-    FAQ Document (FAQ.pdf): This document contains the necessary information for helping the agent handle inquiries related to university policies, deadlines, procedures, financial aid, application forms, and student registration.
     
-    Course Catalog Document (course-catalog.pdf): This document holds detailed information about courses offered by the university, including course descriptions, prerequisites, objectives, and credit hours.
+FAQ Document (FAQ.pdf): This document contains the necessary information for helping the agent handle inquiries related to university policies, deadlines, procedures, financial aid, application forms, and student registration.
     
-    University Calendar Document (university_calendar.pdf): This document outlines important academic dates such as semester start/end dates,   holidays, orientation days, registration deadlines, and other academic events.
+Course Catalog Document (course-catalog.pdf): This document holds detailed information about courses offered by the university, including course descriptions, prerequisites, objectives, and credit hours.
+    
+University Calendar Document (university_calendar.pdf): This document outlines important academic dates such as semester start/end dates,   holidays, orientation days, registration deadlines, and other academic events.
 
 ## usage
 
